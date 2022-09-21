@@ -1,0 +1,15 @@
+D:\Programmirovanie\TaskMindBox\TaskMindBox\bin\Debug\net6.0\TaskMindBox.exe
+D:\Programmirovanie\TaskMindBox\TaskMindBox\bin\Debug\net6.0\TaskMindBox.deps.json
+D:\Programmirovanie\TaskMindBox\TaskMindBox\bin\Debug\net6.0\TaskMindBox.runtimeconfig.json
+D:\Programmirovanie\TaskMindBox\TaskMindBox\bin\Debug\net6.0\TaskMindBox.dll
+D:\Programmirovanie\TaskMindBox\TaskMindBox\bin\Debug\net6.0\TaskMindBox.pdb
+D:\Programmirovanie\TaskMindBox\TaskMindBox\obj\Debug\net6.0\TaskMindBox.csproj.AssemblyReference.cache
+D:\Programmirovanie\TaskMindBox\TaskMindBox\obj\Debug\net6.0\TaskMindBox.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmirovanie\TaskMindBox\TaskMindBox\obj\Debug\net6.0\TaskMindBox.AssemblyInfoInputs.cache
+D:\Programmirovanie\TaskMindBox\TaskMindBox\obj\Debug\net6.0\TaskMindBox.AssemblyInfo.cs
+D:\Programmirovanie\TaskMindBox\TaskMindBox\obj\Debug\net6.0\TaskMindBox.csproj.CoreCompileInputs.cache
+D:\Programmirovanie\TaskMindBox\TaskMindBox\obj\Debug\net6.0\TaskMindBox.dll
+D:\Programmirovanie\TaskMindBox\TaskMindBox\obj\Debug\net6.0\refint\TaskMindBox.dll
+D:\Programmirovanie\TaskMindBox\TaskMindBox\obj\Debug\net6.0\TaskMindBox.pdb
+D:\Programmirovanie\TaskMindBox\TaskMindBox\obj\Debug\net6.0\TaskMindBox.genruntimeconfig.cache
+D:\Programmirovanie\TaskMindBox\TaskMindBox\obj\Debug\net6.0\ref\TaskMindBox.dll
